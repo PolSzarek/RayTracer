@@ -1,0 +1,85 @@
+window
+{
+        height:900
+        width:1600
+}
+
+eye
+{
+        x:-1000
+        y:0
+        z:300
+        x_rot:0
+        y_rot:0
+        z_rot:0
+}
+
+cylinder
+{
+        x:200
+        y:300
+        z:100
+        x_rot:45
+        y_rot:0
+        z_rot:0
+        red:255
+        green:0
+        blue:60
+        alpha:255
+        radius:142
+        shine:100
+        h:300
+}
+
+sphere
+{
+        x:890
+        y:-265
+        z:-456
+        red:28
+        green:205
+        blue:236
+        alpha:255
+        radius:90
+}
+
+cone
+{
+        x:70
+        y:525
+        z:-166
+        x_rot:-43
+        y_rot:30
+        z_rot:-50
+        red:255
+        green:213
+        blue:0
+        alpha:255
+        radius:500
+        a:10
+}
+
+spotlight
+{
+        x:300
+        y:300
+        z:300
+        x_rot:45
+        y_rot:45
+        z_rot:45
+        brightness:100
+        red:1
+        green:28
+        blue:18
+}
+
+light
+{
+        x:200
+        y:200
+        z:200
+        red:255
+        blue:255
+        green:255
+        alpha:255
+}

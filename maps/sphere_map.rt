@@ -1,0 +1,168 @@
+window
+{
+	height:900
+	width:1600
+}
+
+plan
+{
+	x_rot:0
+	y_rot:0
+	z_rot:0
+	red:100
+	blue:100
+	green:100
+}
+
+eye
+{
+	x:-300
+	y:0
+	z:100
+	x_rot:-100
+	y_rot:-0
+	z_rot:-0
+}
+
+sphere
+{
+	radius:100
+	x:-0
+	y:-600
+	z:200
+	red:150
+	green:20
+	blue:150
+	alpha:255
+}
+
+cone
+{
+        radius:30
+        x:300
+        y:-0
+        z:200
+        red:200
+        green:100
+        blue:160
+        alpha:255
+}
+
+cylindre
+{
+	x_rot:10
+	y_rot:30
+	z_rot:50
+	radius:50
+        x:100
+        y:-300
+        z:200
+        red:10
+        green:100
+        blue:160
+        alpha:255
+}
+
+cylindre
+{
+        radius:50
+        x:100
+        y:300
+        z:200
+        red:10
+        green:100
+        blue:160
+        alpha:255
+}
+
+sphere
+{
+	radius:80
+	x:100
+	y:-0
+	z:-40
+	red:205
+	green:-0
+	blue:-0
+	alpha:255
+}
+
+sphere
+{
+	radius:100
+	x:-0
+	y:600
+	z:200
+	red:150
+	green:150
+	blue:-0
+	alpha:255
+}
+
+light
+{
+	x:-00
+	y:0
+	z:100
+	red:-0
+	blue:100
+	green:255
+	alpha:255
+}
+
+light
+{
+	x:600
+	y:-0
+	z:100
+	red:-0
+	blue:250
+	green:55
+	alpha:255
+}
+
+light
+{
+	x:100
+	y:400
+	z:100
+	red:255
+	blue:55
+	green:55
+	alpha:255
+}
+
+light
+{
+	x:100
+	y:-400
+	z:100
+	red:255
+	blue:55
+	green:55
+	alpha:255
+}
+
+light
+{
+	x:-200
+	y:-0
+	z:200
+	red:55
+	blue:55
+	green:55
+	alpha:255
+}
+
+filter
+{
+	f1_1:-1
+	f1_2:0
+	f1_3:-1
+	f2_1:0
+	f2_2:1
+	f2_3:0
+	f3_1:-1
+	f3_2:0
+	f3_3:-1
+}

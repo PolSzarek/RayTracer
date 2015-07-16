@@ -1,0 +1,74 @@
+
+
+sphere
+{
+	radius:100
+	x:142
+	y:168
+	z:172
+}
+
+window
+{
+	height:900
+	width:1600
+}	
+
+eye
+{
+	x:1
+	y:1
+	z:1
+	x_rot:0
+	y_rot:0
+	z_rot:0
+}	
+
+cylinder
+{
+	x:200
+	y:200
+	z:100
+	x_rot:45
+	y_rot:90
+	z_rot:270
+	red:100
+	green:100
+	blue:100
+	alpha:255
+	radius:142
+	shine:100
+}
+
+cone
+{
+	x:200
+	y:200
+	z:200
+	a:30
+}
+
+spotlight
+{
+	x:300
+	y:300
+	z:300
+	x_rot:45
+	y_rot:45
+	z_rot:45
+	brightness:100
+	red:1
+	green:128
+	blue:128
+}
+
+light
+{
+	x:200
+	y:200
+	z:200
+	red:255
+	blue:255
+	green:255
+	alpha:255
+}

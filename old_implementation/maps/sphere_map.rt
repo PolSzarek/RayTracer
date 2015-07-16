@@ -1,0 +1,63 @@
+window
+{
+	height:1900
+	width:1600
+}	
+
+eye
+{
+	x:-300
+	y:100
+	z:-0
+	x_rot:10
+	y_rot:10
+	z_rot:10
+}
+
+sphere
+{
+	radius:100
+	x:-0
+	y:10
+	z:-0
+	red:205
+	green:-0
+	blue:200
+	alpha:255
+}
+
+sphere
+{
+	radius:100
+	x:-0
+	y:200
+	z:-0
+	red:255
+	green:200
+	blue:0
+	alpha:255
+}
+
+light
+{
+	x:200
+	y:200
+	z:200
+	red:255
+	blue:255
+	green:255
+	alpha:255
+}
+
+filter
+{
+        f1_1:0
+        f1_2:-2
+        f1_3:0
+        f2_1:-2
+        f2_2:7
+        f2_3:-2
+        f3_1:0
+        f3_2:-2
+        f3_3:0
+}

@@ -1,0 +1,50 @@
+window
+{
+        height:900
+        width:1600
+}
+
+eye
+{
+        x:-3200
+        y:0
+        z:300
+        x_rot:0
+        y_rot:0
+        z_rot:0
+}
+
+sphere
+{
+        radius:300
+        x:90
+        y:10
+        z:60
+        red:205
+        green:60
+        blue:200
+        alpha:255
+}
+
+sphere
+{
+        radius:600
+        x:80
+        y:200
+        z:10
+        red:255
+        green:200
+        blue:0
+        alpha:255
+}
+
+light
+{
+        x:200
+        y:200
+        z:200
+        red:255
+        blue:255
+        green:255
+        alpha:255
+}

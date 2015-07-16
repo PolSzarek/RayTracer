@@ -1,0 +1,39 @@
+window
+{
+        height:900
+        width:1900
+}
+
+eye
+{
+        x:-3500
+        y:0
+        z:300
+        x_rot:0
+        y_rot:0
+        z_rot:0
+}
+
+sphere
+{
+        radius:300
+        x:0
+        y:10
+        z:-100
+        red:255
+        green:200
+        blue:0
+        alpha:255
+}
+
+light
+{
+        x:200
+        y:200
+        z:200:
+        red:255
+        blue:255
+        green:255
+        alpha:255
+        brightness:110
+}
